@@ -1,0 +1,19 @@
+h1{
+	font-weight:bold;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	word-spacing:4px;
+	font-family:algerian;
+	color:#5C8374;
+}
+body{
+	background-color:#85E6C5;
+	margin-left:2cm;
+	margin-right:2cm;
+	margin-top:1cm;
+}
+/* unvisited link */
+a:link {
+  color: black;
+}
+p.ridge {outline-style: ridge;}
